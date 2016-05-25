@@ -1,0 +1,33 @@
+{
+  "name": "audio-clock-webpack",
+  "version": "0.1.0",
+  "description": "audio-clock module for use with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/audio-clock-webpack.git"
+  },
+  "keywords": [
+    "audio",
+    "time",
+    "worker",
+    "sequence",
+    "bpm",
+    "tempo",
+    "webaudio",
+    "browser",
+    "webpack"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/audio-clock-webpack/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/audio-clock-webpack",
+  "dependencies": {
+    "webworkify-webpack": "^1.0.6"
+  }
+}
